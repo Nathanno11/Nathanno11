@@ -1,6 +1,7 @@
 ### Olá!! Eu sou Nathan Neves 👋
 
 - 🔭 Atualmente estou em busca de uma nova oprtunidade na profissão.
+- 🖥  Minha ultima experiencia foi como estagiário dev front-end.
 - 🌱 Estudando javaScript
 - 📫 Contate-me no email : nathanno11@hotmail.com
 
@@ -24,6 +25,6 @@
  	<a href = "nathanno11@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathan-neves-553a711a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-   ![Snake animation](https://github.com/Nathanno11/Nathanno11/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Nathanno11/Nathanno11/blob/output/github-contribution-grid-snake.svg)
   
 </div>
